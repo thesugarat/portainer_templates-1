@@ -17,7 +17,7 @@ Login to your portainer setup go to settings -> enable Use external templates ->
 If you wish to contribute contact me by email.
 
 ## Authors
-* **Allen Sampsell** - *Updated Apr 2020* - [thesugarat](https://github.com/thesugarat)
+* **Allen Sampsell** - *COVID-19 Update April 2020* - [thesugarat](https://github.com/thesugarat)
 * **Jos Visser** - *Initial work* - [Qballjos](https://github.com/Qballjos)
 
 See also the list of [contributors](https://github.com/Qballjos/portainer_templates/contributors) who participated in this project.
